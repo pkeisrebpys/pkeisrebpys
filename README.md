@@ -1,4 +1,5 @@
-## Hi there 👋
+## Ken-ichi Kondo, Dr. Eng.
+- Assistant Professor in the Faculty of Engineering Sciene, kansai University.
 
 <!--
 **pkeisrebpys/pkeisrebpys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
