@@ -1,5 +1,6 @@
 ## Ken-ichi Kondo, Dr. Eng.
-- Assistant Professor in the Faculty of Engineering Sciene, kansai University.
+- Assistant Professor in the Faculty of Engineering Science, Kansai University.
+- researchmap: https://researchmap.jp/kondo_ken-ichi
 
 <!--
 **pkeisrebpys/pkeisrebpys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
